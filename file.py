@@ -4,3 +4,6 @@
 
 def tzo():
     return "otoo"
+
+def recognize():
+    return 'start recognition'
